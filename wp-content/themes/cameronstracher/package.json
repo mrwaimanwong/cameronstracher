@@ -1,0 +1,31 @@
+{
+  "name": "cameronstracher",
+  "version": "1.0.0",
+  "description": "Cameron Stracher author website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Wai Man Wong",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "browser-sync": "latest",
+    "css-mqpacker": "latest",
+    "gulp": "latest",
+    "gulp-concat": "latest",
+    "gulp-cssnano": "latest",
+    "gulp-deporder": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-load-plugins": "latest",
+    "gulp-newer": "latest",
+    "gulp-postcss": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest",
+    "gulp-strip-debug": "latest",
+    "gulp-uglify": "latest"
+  }
+}
